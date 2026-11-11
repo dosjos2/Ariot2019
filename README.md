@@ -1,3 +1,28 @@
+# ARIoT 2019 – automatisk gravemaskin
+
+Programvare og elektronikk for en automatisert LEGO-gravemaskin fra ARIoT 2019. Repoet samler et API, en Android-app, styring av elektronikk og et merket bildedatasett for maskinsyn.
+
+- `api/`: backend og gravemaskinstyring.
+- `app/`: mobilapplikasjon.
+- `electronics/`: kode for mikrokontrollere og Raspberry Pi.
+- `dataset/`: bilder og merking til trening av gjenkjenning.
+
+Den opprinnelige README-en med maskinvarekrav, installasjon og lisensinformasjon er bevart nedenfor.
+
+## Opphav og historikk
+
+- Opprinnelig repo: [dosjos/Ariot2019](https://github.com/dosjos/Ariot2019).
+- Opprinnelig opprettet på GitHub: **2019-03-09 08:15:36 UTC** (GitHubs metadata for kilderepoet).
+- Denne kopien: [dosjos2/Ariot2019](https://github.com/dosjos2/Ariot2019).
+
+Flyttet fra `dosjos` til `dosjos2` fordi eieren mistet tilgangen til den opprinnelige kontoen. Eksisterende Git-historikk, forfattere, grener og tags er bevart; README-oppdateringen er en ny commit. GitHub-opprettelsesdatoen for denne kopien er datoen for flyttingen, og erstatter ikke datoen ovenfor.
+
+Beskrivelsen er basert på kildekoden og prosjektfilene. Bygg og kjøring av de historiske prosjektene er ikke verifisert ved flyttingen. Eksisterende lisensfiler og krediteringer gjelder fortsatt.
+
+---
+
+## Opprinnelig README
+
 # ARIoT2019
 The contribution of private constructors from ARIoT 2019
 
